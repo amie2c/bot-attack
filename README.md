@@ -15,6 +15,8 @@ python bot.py <ip> <port> <count> <protocol_version> <hold_time_sec> <proxy_list
 python bot.py 127.0.0.1 25565 20 47 3 proxy_list.txt
 ```
 
+    pip install -r requirements.txt
+
 
 ```
 protocol versions

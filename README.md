@@ -1,5 +1,8 @@
 **simple minecraft bot attack and proxy**
 
+![2025-06-28_05 21 51](https://github.com/user-attachments/assets/666cab1b-234d-42fc-9b9f-331062abcfec)
+
+
 ![Capture_2025_06_28_04_49_57_24](https://github.com/user-attachments/assets/ca74a189-ff29-44e6-81af-5e391153bc9c)
 
 ![Capture_2025_06_28_04_46_33_675](https://github.com/user-attachments/assets/f61cbddf-c516-4efc-80e2-60c5e90fb129)
